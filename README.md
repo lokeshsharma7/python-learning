@@ -1,2 +1,2 @@
 # python-learning
-turtle race in python turtle
+Turtle race in python turtle
